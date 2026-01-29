@@ -7,22 +7,22 @@
   "miniapp": {
     "version": "1",
     "name": "Based 2048",
-    "homeUrl": "https://YOUR_VERCEL_URL",
-    "iconUrl": "https://YOUR_VERCEL_URL/icon.png",
-    "splashImageUrl": "https://YOUR_VERCEL_URL/icon.png",
+    "homeUrl": "https://2048-based.vercel.app/",
+    "iconUrl": "https://2048-based.vercel.app/icon.png",
+    "splashImageUrl": "https://2048-based.vercel.app/icon.png",
     "splashBackgroundColor": "#0052FF",
     "subtitle": "2048 on Base",
     "description": "Combine tiles to reach 2048 and save scores onchain.",
     "screenshotUrls": [
-      "https://YOUR_VERCEL_URL/hero.png"
+      "https://2048-based.vercel.app/hero.png"
     ],
     "primaryCategory": "games",
     "tags": ["game", "2048", "base"],
-    "heroImageUrl": "https://YOUR_VERCEL_URL/hero.png",
+    "heroImageUrl": "https://2048-based.vercel.app/hero.png",
     "tagline": "Merge to 2048 onchain.",
     "ogTitle": "Based 2048",
     "ogDescription": "Play the classic 2048 game and save your high score to the Base blockchain.",
-    "ogImageUrl": "https://YOUR_VERCEL_URL/hero.png",
+    "ogImageUrl": "https://2048-based.vercel.app/hero.png",
     "noindex": false
   }
 }
